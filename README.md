@@ -41,8 +41,16 @@ tabla product:
 ***
 Resultados por formulario:
 
-![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/d00ecdfa-77d1-4cf7-8063-5d6f010ffde8)
 ![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/46e64903-478a-4fa7-8690-80a6299c2270)
+
+***
+Tabla user:
+
+![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/54ac908b-35db-4e2d-b104-826608cafd13)
+***
+Resultados por formulario:
+
+![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/0fdf6e4a-510f-4b37-885e-f2998ed0263f)
 
 
 
