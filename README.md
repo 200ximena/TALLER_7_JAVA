@@ -28,12 +28,19 @@ $ clonar git (https://github.com/200ximena/TALLER_7_JAVA.git)
 ## Resultados
 ***
 tabla category:
+
 ![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/0d6c4d1f-1ef9-419c-9d72-19d5e319dc66)
+***
 Resultados por formulario:
+
 ![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/6d61e3e5-2e6d-4bb3-b831-a13f3ea555f8)
+***
 tabla product:
+
 ![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/1611f5e9-7569-404a-a6c0-fdb1c31fffc3)
+***
 Resultados por formulario:
+
 ![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/d00ecdfa-77d1-4cf7-8063-5d6f010ffde8)
 ![image](https://github.com/200ximena/TALLER_7_JAVA/assets/128264476/46e64903-478a-4fa7-8690-80a6299c2270)
 
